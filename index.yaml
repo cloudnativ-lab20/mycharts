@@ -3,12 +3,12 @@ entries:
   eventapp-lab20:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-21T10:22:01.2590174+09:00"
+    created: "2020-04-21T10:47:52.9160061+09:00"
     description: A Helm chart for Kubernetes
-    digest: 407e4aee99890c6c5587836c8b2cd3a6540a8ead2551a46f54b7a759853885f9
+    digest: b69c3a7b2f9c65375e1f61f628c3493847ebe168183834b3de90b259a1a09f67
     name: eventapp-lab20
     type: application
     urls:
     - https://cloudnativ-lab20.github.io/mycharts/eventapp-lab20-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-21T10:22:01.2460169+09:00"
+generated: "2020-04-21T10:47:52.9069984+09:00"
